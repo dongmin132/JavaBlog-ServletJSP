@@ -3,7 +3,7 @@ plugins {
     id 'war'
 }
 
-group 'iducs201912018.javaweb'
+group 'JavaBlog-ServletJSP.javaweb'
 version '1.0'
 
 repositories {
